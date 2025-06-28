@@ -1,1 +1,1 @@
-project report in PDF formit
+project report in PDF format
